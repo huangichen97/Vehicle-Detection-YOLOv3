@@ -4,6 +4,10 @@
 - To detect traffic density with computer vision to manage traffic flow and provide optimization solutions to congested road sections to reduce congestion.
 - Transfer learning with Computer Vision Model
 
+## Dataset
+- The datasets used in our project, MIOvision Traffic Camera Dataset (MIO-TCD), were collected by the University of Sherbrooke and Miovision Inc. Canada and are available at http://podoce.dinf.usherbrooke.ca/challenge/dataset/
+- Contains 137,743 high-resolution images containing one (or more) foreground object(s) with one of the following 11 labels: Articulated truck, Bicycle, Bus, Car, Motorcycle, Motorized vehicle, Non-motorized vehicle, Pedestrian, Pickup truck, Single unit truck ,Work van.
+
 ## Methodology and Results
 See journal on Medium
 
